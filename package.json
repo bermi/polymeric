@@ -1,0 +1,25 @@
+{
+  "name": "polymeric",
+  "version": "0.0.0",
+  "description": "Wraps a collection of polymer elements into a namespace.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bermi/polymeric.git"
+  },
+  "keywords": [
+    "polymer",
+    "noClonflict",
+    "cjs",
+    "browserify",
+    "web",
+    "components",
+    "element"
+  ],
+  "author": "Bermi Ferrer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bermi/polymeric/issues"
+  },
+  "homepage": "https://github.com/bermi/polymeric"
+}
