@@ -1,6 +1,6 @@
 {
   "name": "polymeric",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Wraps a collection of polymer elements into a namespace.",
   "main": "index.js",
   "repository": {
