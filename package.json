@@ -9,7 +9,7 @@
   },
   "keywords": [
     "polymer",
-    "noClonflict",
+    "noConflict",
     "cjs",
     "browserify",
     "web",
