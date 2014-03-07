@@ -1,6 +1,6 @@
 # polymeric
 
-noClonflict for polymer element collections
+noConflict for polymer element collections
 
 This project is an experiment where I will attempt to wrap a collection of polymer elements into a namespace.
 
